@@ -1,8 +1,8 @@
-# Class cis::el7::9_1_2
+# Class cis::ubuntu14::9_1_2
 #
-# CIS Security Benchmark for RHEL7
+# CIS Security Benchmark for ubuntu14
 #
 
-class cis::el7::9_1_2   {
-  include cis::linuxcontrols::c0079
+class cis::ubuntu14::9_1_2 {
+  include cis::linuxcontrols::c0058
 }

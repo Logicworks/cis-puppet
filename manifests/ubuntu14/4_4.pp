@@ -1,8 +1,8 @@
-# Class cis::ubuntu14::1_6_1
+# Class cis::ubuntu14::4_4
 #
-# CIS Security Benchmark for RHubuntu14
+# CIS Security Benchmark for ubuntu14
 #
 
-class cis::ubuntu14::4_4  {
+class cis::ubuntu14::4_4 {
   include cis::linuxcontrols::c0300
 }

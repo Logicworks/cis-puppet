@@ -1,13 +1,8 @@
-# Class cis::el7::5_1_4
+# Class cis::ubuntu14::5_1_4
 #
-# CIS Security Benchmark for RHEL7
+# CIS Security Benchmark for ubuntu14
 #
 
-class cis::el7::5_1_4   {
-  include cis::linuxcontrols::c0044
-  include cis::linuxcontrols::c0045
-  include cis::linuxcontrols::c0046
-  include cis::linuxcontrols::c0047
-  include cis::linuxcontrols::c0048
-  include cis::linuxcontrols::c0049
+class cis::ubuntu14::5_1_4 {
+  # Not yet implimented
 }
